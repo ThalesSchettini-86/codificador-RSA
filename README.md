@@ -96,7 +96,6 @@ WICHTIGE WARNUNG:
 Dieses Projekt setzt die RSA-Kryptographie ausschließlich zu Bildungszwecken um.
 Es benutzt keine große Primzahlen, setzt kein Padding (mit OAEP oder PKC#1 v.1.5) um, erlaubt manuellen Einsätze für einige Keys und benutzt deterministische Kryptographie, also, der selbe Text
 wird immer das selbe Ergebnis vorzeigen.
-Due to those reasons, it should NOT be used in legitimate security systems, because it's vulnerable to factorization attacks, chosen-plaintext and many other exploitation forms.
 Für solche Gründe, es soll NICHT in rechtmäßige Sicherheitssysteme benutzt werden, da es anfällig ist zu Faktorisierungangriffe, chosen-plaintext und viele andere Ausnutzungen ist.
 Die Absicht des Projektes ist die Methematik und Binnenlogik der Kryptographie und nicht einen wirklichen sicheren Encoder anliefern.
 
