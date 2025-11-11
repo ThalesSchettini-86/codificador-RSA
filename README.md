@@ -93,7 +93,6 @@ This project is under the MIT license. Check the LICENSE file for more details.
 Ein python Projekt, das sich auf Kodierung und Dekodierung von Texten für die RSA-Kryptographie konzentriert
 
 WICHTIGE WARNUNG:
-This project implements the RSA cryptography only with merely educational purposes.
 Dieses Projekt setzt die RSA-Kryptographie ausschließlich zu Bildungszwecken um.
 Es benutzt keine große Primzahlen, setzt kein Padding (mit OAEP oder PKC#1 v.1.5) um, erlaubt manuellen Einsätze für einige Keys und benutzt deterministische Kryptographie, also, der selbe Text
 wird immer das selbe Ergebnis vorzeigen.
