@@ -127,7 +127,3 @@ Die Absicht des Projektes ist die Methematik und Binnenlogik der Kryptographie u
 ## IV - Lizenz
 
 Dieses projekt steht under der MIT-Lizenz. Weitere Details finden Sie in der LICENSE Datei.
-
-## VII - License
-
-This project is under the MIT license. See the LICENSE file for more details.
